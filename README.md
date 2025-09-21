@@ -71,4 +71,7 @@ Prophet is designed to handle **trend, seasonality, and holiday effects**, makin
 * Add **external regressors** (e.g., trading volume, macroeconomic indicators).
 * Deploy results on a **dashboard (Streamlit/Power BI)** for interactive analysis.
 
----
+## <img width="1513" height="718" alt="image" src="https://github.com/user-attachments/assets/659692be-2c50-456b-854d-db4a61f5f089" />
+## <img width="1502" height="707" alt="image" src="https://github.com/user-attachments/assets/3da37424-270a-4c58-90b1-8d8008b23006" />
+
+
